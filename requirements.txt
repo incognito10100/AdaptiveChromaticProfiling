@@ -1,7 +1,5 @@
-fastapi
-uvicorn
+streamlit
 opencv-python
 numpy
 scikit-learn
 matplotlib
-python-multipart
