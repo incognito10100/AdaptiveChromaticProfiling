@@ -1,9 +1,6 @@
-# Dominant Color Detection in Images Using K-Means Clustering
+**Dominant Color Detection Using K-Means Clustering**: This project uses K-Means clustering to identify and visualize dominant colors in images, with applications in design, image segmentation, and more. It provides a resource-efficient approach without deep learning models. 
 
-## Overview
-
-This project implements an efficient approach for detecting the dominant colors in images using K-Means clustering. Identifying dominant colors in an image has widespread applications in areas like image segmentation, color palette generation, object tracking, and more. By focusing on classical machine learning techniques like K-Means clustering, this project demonstrates a resource-efficient and interpretable solution, avoiding the complexity of deep learning models when not necessary.
-
+**Look here for project**: [Dominant Color Detection](http://dominantcolordet-5.onrender.com/)
 ## Contents
 
 1. **Introduction**: Explanation of the project’s objectives and relevance.
