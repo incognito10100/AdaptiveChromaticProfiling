@@ -1,6 +1,6 @@
-**Dominant Color Detection Using K-Means Clustering**: This project uses K-Means clustering to identify and visualize dominant colors in images, with applications in design, image segmentation, and more. It provides a resource-efficient approach without deep learning models. 
+**Adaptive Chromatic Profiling**: This project uses K-Means clustering to identify and visualize dominant colors in images, with applications in design, image segmentation, and more. It provides a resource-efficient approach without deep learning models. 
 
-**Look here for project**: [Dominant Color Detection](http://dominantcolordet-5.onrender.com/)
+**Look here for project**: [Adaptive Chromatic Profiling](http://dominantcolordet-5.onrender.com/)
 ## Contents
 
 1. **Introduction**: Explanation of the project’s objectives and relevance.
